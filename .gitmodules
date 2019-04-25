@@ -1,0 +1,3 @@
+[submodule "UPowerDBus"]
+	path = UPowerDBus
+	url = https://github.com/Rogni/UPowerDBus.git
